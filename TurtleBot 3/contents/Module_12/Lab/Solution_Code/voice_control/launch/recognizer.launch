@@ -1,0 +1,15 @@
+<launch>
+	<arg name="mode" default="deepspeech"/>
+	<arg name="samplerate" default="16000"/>
+	<arg name="duration" default="2"/>
+
+	<node name="audioTreatment" pkg="turtlebot_speech_recognition" type="audioTreatment.py" output="screen" cwd="node">
+	<param name="mode" value="$(arg mode)"/>
+	<param name="samplerate" value="$(arg samplerate)"/>
+	<param name="duration" value="$(arg duration)"/>
+	</node>
+
+	<node name="voiceControl" pkg="turtlebot_speech_recognition" type="voiceControl.py" output="screen" cwd="node" />
+
+</launch>
+
