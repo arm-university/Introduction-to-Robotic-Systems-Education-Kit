@@ -42,3 +42,7 @@ Arm is committed to making the language we use inclusive, meaningful, and respec
 Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This course contains references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community. 
  
 Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
+
+------------------------------
+
+In this material, we use the terms ‘Controller’ and 'Target' in the context of the Ros Master and Slave APIs, instead of the terms ‘Master’ and ‘Slave’, which were conventionally used until recently. As a result, the related concepts of 'ROS Master' become 'ROS Controller' and 'ROS Target'. This is not reflected in the code examples, which will be changed as soon as we are aware of any official change.
