@@ -135,7 +135,7 @@
         {
             "title": "Interrupts, Module 4, Lab 2",
             "subject": ["arm", "microcontrollers", "cortex-m", "robotics", "internet-of-things", "hardware-designs", "robotic-systems", "arm-cortex-m7", "turtlebot3", "dc-motors", "keil-mdk", "devices-circuits-materials"],
-            "type": "Lecture",
+            "type": "Lab",
             "format": "ppt",
             "creator": ["Oyinkuro Benafa", "Vincent Pinel"],
             "publisher": "Arm Education",
