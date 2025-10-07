@@ -19,6 +19,34 @@ Our Introduction to Robotic Systems Education Kit teach your students to develop
 * Lab manuals with solutions for faculty. Labs use low cost, powerful hardware boards
 * **Prerequisites:** Basics of programming in C, Python and basic knowledge of circuit design
 
+## Tools Used
+
+The lab exercises in this course can be run on Ubuntu 16.04 and have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
+
+Hardware:
+- Raspberry Pi 3
+- Open CR1.0 board
+- Cortex SWD 10-pin Adapter
+  - 10-pin 2x5 Socket-Socket SWD Cable
+- Micro A to Mini B USB cable
+- Micro A to Micro B USB cable
+- Breadboard
+- Jumper cables
+- Four IR sensors
+- Microphone
+- Dip Switch 
+- 5 x LEDs
+- 270 Ohm Resistors
+- Logic analyzer
+- Turtle Bot 3 Burger (Robot)
+- 4x TCRT5000 IR reflector sensors
+- Micro SD Card
+
+Software:
+- Keil MDK V5.28
+- Arduino IDE 1.8.7 Windows, Mac OS X, Linux, Linux ARM
+- ULINK-ME Debugger
+
 ## Course Aim
 To produce students with a solid introductory knowledge on robotics and key practical skills required to program and control a robot to interact with its environment and perform simple manoeuvres.
 
